@@ -1,0 +1,5 @@
+                    PROJECT PROGRESS REPORT
+TASK A:Completed
+TASK B:In progress
+TASK C:Completed
+Task D:Not started
